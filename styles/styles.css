@@ -117,8 +117,8 @@ body {
 }
 
 .rodape {
-    color: var(--cor-primaria);
-    background-color: var(--cor-rodape);
+    color: var(--cor-rodape);
+    background-color: var(--cor-terciaria);
     padding: 15px;
     text-align: center;
     font-family: var(--fonte-secundaria);
